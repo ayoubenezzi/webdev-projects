@@ -33,7 +33,7 @@ git clone https://github.com/ayoubenezzi/travel-planner-app.git
 
 ```Bash
 
-cd travel-planner-app
+cd webdev-projects/frontend-projects/travel-planner-app
 
 ```
 
