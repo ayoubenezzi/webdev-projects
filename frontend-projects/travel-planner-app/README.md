@@ -55,9 +55,7 @@ npm run dev
 
 - Open the app in your browser:
 
-```http://localhost:5173
-
-```
+```http://localhost:5173```
 
 ## 🧠 Challenges Faced
 
