@@ -25,7 +25,7 @@
 
 ```Bash
 
-git clone https://github.com/ayoubenezzi/travel-planner-app.git
+git clone https://github.com/ayoubenezzi/webdev-projects.git
 
 ```
 
